@@ -1,0 +1,4 @@
+akshare==1.16.98
+pandas==2.1.4
+numpy==1.23.5
+matplotlib==3.8.2
